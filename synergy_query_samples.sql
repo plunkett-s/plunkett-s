@@ -1,3 +1,5 @@
+/*Synergy queries provided by Garry McCready*/
+
 -- Display student data
 select org.organization_name, stu.SIS_NUMBER, per.LAST_NAME, per.first_name,
        tblgrd.value_description grade,
