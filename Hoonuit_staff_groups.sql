@@ -1,3 +1,5 @@
+--Find Hoonuit roles as defined in Synergy
+
 DECLARE
 @STAGE_SOURCE VARCHAR(20) = 'ESD_EDP', --Set this to the source code, this can be found in K12INTEL_USERDATA.XTBL_SOURCE_CONTROL
 @LOGIN_NAME VARCHAR(50) =  'rebar_h'
