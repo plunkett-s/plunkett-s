@@ -1,4 +1,4 @@
---student grades
+--student grades list
 SELECT distinct
 
 	dtbl_students.student_id AS sis,
